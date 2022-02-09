@@ -9,4 +9,6 @@ int main(){
     cout << "Incremented i is: " << i++ << endl;
     cout << "Incremented j is: " << ++j << endl;
 
+    return 0;
+    
 }

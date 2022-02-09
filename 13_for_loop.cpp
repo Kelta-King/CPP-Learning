@@ -8,5 +8,6 @@ int main(){
         cout << "Index is: " << i << endl;
     }
     
+    return 0;
 
 }

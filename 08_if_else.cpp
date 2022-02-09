@@ -21,5 +21,7 @@ int main(){
     else{
         cout << "You are not eligible to vote";
     }
+    
+    return 0;
 
 }

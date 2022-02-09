@@ -10,5 +10,6 @@ int main(){
         i++;
     } while (i<0);
     
+    return 0;
 
 }

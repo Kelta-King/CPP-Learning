@@ -11,5 +11,7 @@ int main(){
     {
         cout << "Value at " << i << " is: " << arr[i] << endl;
     }
-
+    
+    return 0;
+    
 }

@@ -25,4 +25,7 @@ int main()
         cout << "Thanks for participating in race :-)";
         break;
     }
+    
+    return 0;
+    
 }

@@ -20,4 +20,6 @@ int main(){
     // Following code gives error
     // cout << (string)a << endl;
 
+    return 0;
+
 }

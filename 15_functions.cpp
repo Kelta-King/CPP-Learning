@@ -10,4 +10,6 @@ int main(){
     int a = 4, b = 3;
     cout << "Sum of " << a << " and " << b << " are: " << sum(a, b);
     
+    return 0;
+    
 }
